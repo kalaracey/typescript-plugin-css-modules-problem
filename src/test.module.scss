@@ -1,0 +1,5 @@
+@import 'shared';
+
+.test {    
+    color: $blue; // variable imported from `bootstrap.scss`
+}
